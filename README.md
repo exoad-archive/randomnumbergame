@@ -23,3 +23,6 @@ Custom is still a work in progress
 The Game uses the `java.util.Random` Package
 
 *Note: This was created by me some years ago*
+
+# Have a question?
+You can contact via Discord: `exoad#4166`
