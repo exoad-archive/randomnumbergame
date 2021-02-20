@@ -3,10 +3,13 @@ A random Number Game that is created using the Java language.
 
 # Usage:
 **How to run:**
-Basic for most Java files.
-If not:
-javac RandNum.java
-java RandNum.java
+Basic for most Java files:
+
+`javac RandNum.java`
+
+then
+
+`java RandNum.java`
 
 --{---}--
 
